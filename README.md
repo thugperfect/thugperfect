@@ -1,1 +1,1 @@
- ### 🚀 Welcome to my GitHub! I go by Thugperfect here, not because I'm into any mischief, but because I believe in coding with a bit of flair. Tech enthusiast, creative coder, and always striving for perfection. Let's build something amazing together! 💻✨
+ ### 🚀 Welcome to my GitHub! 👋 I go by Thugperfect here, not because I'm into any mischief, but because I believe in coding with a bit of flair. Tech enthusiast, creative coder, and always striving for perfection. Let's build something amazing together! 💻✨
